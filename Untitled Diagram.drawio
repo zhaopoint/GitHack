@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T08:14:56.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="00hRYiEOxgvDI2hTXJ-F" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T08:18:30.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="LbIFawN-FvjTB7JT_NAQ" version="13.8.3" type="github">
   <diagram id="5_lmvbP1PZn3JAL1RZH7" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -220,6 +220,45 @@
             <mxPoint x="180" y="260" as="sourcePoint" />
             <mxPoint x="270" y="110" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="q3nNFvrmssY_wy4M-QBo-85" value="工厂、研究院" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="82.06" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3nNFvrmssY_wy4M-QBo-86" value="生产区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="83" y="790" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3nNFvrmssY_wy4M-QBo-87" value="开发测试区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="210.51999999999998" y="790" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3nNFvrmssY_wy4M-QBo-88" value="办公区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="790" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3nNFvrmssY_wy4M-QBo-89" value="研发办公区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="569.57" y="775" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3nNFvrmssY_wy4M-QBo-90" value="无线接入区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="600.02" y="620" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3nNFvrmssY_wy4M-QBo-91" value="无线控制器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="482" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3nNFvrmssY_wy4M-QBo-92" value="防火墙" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="300" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3nNFvrmssY_wy4M-QBo-93" value="上网行为管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="390" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3nNFvrmssY_wy4M-QBo-94" value="核心交换机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="460" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3nNFvrmssY_wy4M-QBo-95" value="路由器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="210" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3nNFvrmssY_wy4M-QBo-96" value="VPN、专线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3nNFvrmssY_wy4M-QBo-97" value="Internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="451" y="120" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
