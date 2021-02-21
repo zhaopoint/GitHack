@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T15:07:14.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="plDoL6bof75zKZXNR_oQ" version="14.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-21T15:12:00.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="oH1x05jc2N2M_9V9vNMq" version="14.4.2" type="github" pages="2">
   <diagram id="5_lmvbP1PZn3JAL1RZH7" name="第 1 页">
     <mxGraphModel dx="1209" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,46 +269,58 @@
         <mxCell id="PCYGJrnegOFhvoO7MloG-0" />
         <mxCell id="PCYGJrnegOFhvoO7MloG-1" parent="PCYGJrnegOFhvoO7MloG-0" />
         <mxCell id="PCYGJrnegOFhvoO7MloG-3" value="系统安全运维岗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
-          <mxGeometry x="80" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCYGJrnegOFhvoO7MloG-4" value="网络安全运维岗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
-          <mxGeometry x="80" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="527" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCYGJrnegOFhvoO7MloG-5" value="高级渗透测试岗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
-          <mxGeometry x="260" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCYGJrnegOFhvoO7MloG-6" value="应用安全运维岗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
-          <mxGeometry x="80" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="623" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PCYGJrnegOFhvoO7MloG-7" value="信息安全经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
-          <mxGeometry x="340" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="PCYGJrnegOFhvoO7MloG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="PCYGJrnegOFhvoO7MloG-1" source="PCYGJrnegOFhvoO7MloG-7" target="PCYGJrnegOFhvoO7MloG-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PCYGJrnegOFhvoO7MloG-8" value="安全开发&lt;br&gt;X人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
+        <mxCell id="PCYGJrnegOFhvoO7MloG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="PCYGJrnegOFhvoO7MloG-1" source="PCYGJrnegOFhvoO7MloG-7" target="PCYGJrnegOFhvoO7MloG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCYGJrnegOFhvoO7MloG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="PCYGJrnegOFhvoO7MloG-1" source="PCYGJrnegOFhvoO7MloG-7" target="PCYGJrnegOFhvoO7MloG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCYGJrnegOFhvoO7MloG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="PCYGJrnegOFhvoO7MloG-1" source="PCYGJrnegOFhvoO7MloG-7" target="PCYGJrnegOFhvoO7MloG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCYGJrnegOFhvoO7MloG-7" value="信息安全经理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
+          <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCYGJrnegOFhvoO7MloG-8" value="安全开发&lt;br&gt;X人" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
           <mxGeometry x="660" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCYGJrnegOFhvoO7MloG-9" value="安全体系岗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
-          <mxGeometry x="470" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="527" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCYGJrnegOFhvoO7MloG-10" value="安全审计岗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
-          <mxGeometry x="470" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PCYGJrnegOFhvoO7MloG-11" value="安全管理&lt;br&gt;2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
+        <mxCell id="PCYGJrnegOFhvoO7MloG-11" value="安全管理&lt;br&gt;2" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
           <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PCYGJrnegOFhvoO7MloG-13" value="安全技术&lt;br&gt;2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
+        <mxCell id="PCYGJrnegOFhvoO7MloG-13" value="安全技术&lt;br&gt;2" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
           <mxGeometry x="260" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCYGJrnegOFhvoO7MloG-14" value="安全开发岗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
-          <mxGeometry x="650" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PCYGJrnegOFhvoO7MloG-15" value="安全运维&lt;br&gt;4人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
+        <mxCell id="PCYGJrnegOFhvoO7MloG-15" value="安全运维&lt;br&gt;4人" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
           <mxGeometry x="60" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCYGJrnegOFhvoO7MloG-17" value="渗透测试岗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
-          <mxGeometry x="260" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="527" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCYGJrnegOFhvoO7MloG-18" value="安全运维主管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PCYGJrnegOFhvoO7MloG-1">
-          <mxGeometry x="80" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
