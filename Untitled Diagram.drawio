@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T10:41:16.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="ooOrLm-8UPwjiDhL-8uX" version="14.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-04T11:06:13.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="pP6QsYiBe_Xhn1hocLdg" version="14.4.3" type="github" pages="2">
   <diagram id="5_lmvbP1PZn3JAL1RZH7" name="第 1 页">
     <mxGraphModel dx="1209" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -268,14 +268,11 @@
       <root>
         <mxCell id="PCYGJrnegOFhvoO7MloG-0" />
         <mxCell id="PCYGJrnegOFhvoO7MloG-1" parent="PCYGJrnegOFhvoO7MloG-0" />
-        <mxCell id="PCYGJrnegOFhvoO7MloG-3" value="系统安全岗&lt;br&gt;1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="PCYGJrnegOFhvoO7MloG-1" vertex="1">
-          <mxGeometry x="54" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="PCYGJrnegOFhvoO7MloG-4" value="网络安全岗&lt;br&gt;1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="PCYGJrnegOFhvoO7MloG-1" vertex="1">
           <mxGeometry x="54" y="357" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCYGJrnegOFhvoO7MloG-5" value="高级渗透测试岗&lt;br&gt;（外包服务）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="PCYGJrnegOFhvoO7MloG-1" vertex="1">
-          <mxGeometry x="254" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="254" y="357" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCYGJrnegOFhvoO7MloG-6" value="应用安全岗&lt;br&gt;2（廖怡斌，待招1）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="PCYGJrnegOFhvoO7MloG-1" vertex="1">
           <mxGeometry x="54" y="453" width="120" height="60" as="geometry" />
@@ -319,14 +316,11 @@
         <mxCell id="PCYGJrnegOFhvoO7MloG-18" value="安全运维主管&lt;br&gt;（赵军利代）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="PCYGJrnegOFhvoO7MloG-1" vertex="1">
           <mxGeometry x="54" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PCYGJrnegOFhvoO7MloG-28" value="说明：&lt;br&gt;1. 蓝色框为待招人员；&lt;br&gt;2. 绿色框为外包；" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;horizontal=1;" parent="PCYGJrnegOFhvoO7MloG-1" vertex="1">
-          <mxGeometry x="54" y="630" width="176" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="PCYGJrnegOFhvoO7MloG-29" value="SRC" style="rounded=0;whiteSpace=wrap;html=1;" parent="PCYGJrnegOFhvoO7MloG-1" vertex="1">
           <mxGeometry x="654" y="357" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCYGJrnegOFhvoO7MloG-30" value="高级信息安全岗&lt;br&gt;1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="PCYGJrnegOFhvoO7MloG-1" vertex="1">
-          <mxGeometry x="254" y="357" width="120" height="60" as="geometry" />
+          <mxGeometry x="254" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
