@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T11:09:06.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="uuIkeBhhU9vfohngQ2Gf" version="14.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-06T12:48:47.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="0pnTrLy7aoMOBeR8-RF8" version="14.4.3" type="github" pages="4">
   <diagram id="5_lmvbP1PZn3JAL1RZH7" name="第 1 页">
     <mxGraphModel dx="1209" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -264,7 +264,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5NWzGLI2Dr7OvZRQFN35" name="第 2 页">
-    <mxGraphModel dx="1209" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PCYGJrnegOFhvoO7MloG-0" />
         <mxCell id="PCYGJrnegOFhvoO7MloG-1" parent="PCYGJrnegOFhvoO7MloG-0" />
@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 2 页 的副本" id="oJLeSws18niLRqUkjWoK">
-    <mxGraphModel dx="1209" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gCHpTCBKDHkF6qY5p4_m-0" />
         <mxCell id="gCHpTCBKDHkF6qY5p4_m-1" parent="gCHpTCBKDHkF6qY5p4_m-0" />
@@ -380,6 +380,38 @@
         </mxCell>
         <mxCell id="gCHpTCBKDHkF6qY5p4_m-19" value="编制：7人&lt;br&gt;已有：2人" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="gCHpTCBKDHkF6qY5p4_m-1">
           <mxGeometry x="540" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TY-1iKt84eutlQjjiGR4" name="第 4 页">
+    <mxGraphModel dx="1209" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0i09v4T7K7CoAkP6lXjx-0" />
+        <mxCell id="0i09v4T7K7CoAkP6lXjx-1" parent="0i09v4T7K7CoAkP6lXjx-0" />
+        <mxCell id="0i09v4T7K7CoAkP6lXjx-2" value="项目总负责人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0i09v4T7K7CoAkP6lXjx-1">
+          <mxGeometry x="330" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0i09v4T7K7CoAkP6lXjx-3" value="最终用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0i09v4T7K7CoAkP6lXjx-1">
+          <mxGeometry x="230" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0i09v4T7K7CoAkP6lXjx-4" value="技术组&lt;br&gt;组长：何泽武" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0i09v4T7K7CoAkP6lXjx-1">
+          <mxGeometry x="50" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0i09v4T7K7CoAkP6lXjx-5" value="采购部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0i09v4T7K7CoAkP6lXjx-1">
+          <mxGeometry x="413.5" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0i09v4T7K7CoAkP6lXjx-6" value="审计部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0i09v4T7K7CoAkP6lXjx-1">
+          <mxGeometry x="600" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0i09v4T7K7CoAkP6lXjx-8" value="主机工程师（方松）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0i09v4T7K7CoAkP6lXjx-1">
+          <mxGeometry x="40" y="250" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0i09v4T7K7CoAkP6lXjx-9" value="网络工程师（丘福欣）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0i09v4T7K7CoAkP6lXjx-1">
+          <mxGeometry x="100" y="250" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0i09v4T7K7CoAkP6lXjx-10" value="桌面支持组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0i09v4T7K7CoAkP6lXjx-1">
+          <mxGeometry x="160" y="250" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
